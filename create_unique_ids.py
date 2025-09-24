@@ -94,7 +94,7 @@ def create_unique_ids(df):
 
 def main():
     # Load the data
-    df = pd.read_csv('full_mfsr_data.csv')
+    df = pd.read_csv('full_mfsr_data_complete.csv')
     
     print("="*60)
     print("CREATING UNIQUE DOCUMENT IDs")
@@ -111,8 +111,8 @@ def main():
     print("="*60)
     
     # Save the result
-    df_with_ids.to_csv("full_mfsr_data_with_ids.csv", index=False, encoding="utf-8-sig")
-    print("Saved results to: full_mfsr_data_with_ids.csv")
+    df_with_ids.to_csv("full_mfsr_data_completewith_ids.csv", index=False, encoding="utf-8-sig")
+    print("Saved results to: full_mfsr_data_completewith_ids.csv")
     
     # Show summary by sector
     print("\nID ranges by sector:")
