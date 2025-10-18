@@ -38,3 +38,8 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Downloaded documents (large files)
+downloaded_documents/
+downloaded_documents_full/
+downloaded_first_links/
