@@ -1,0 +1,28 @@
+Project_Name,Document_ID,Error,Model,Recommendation
+Modernizácia dávkových agend Sociálnej poisťovne,2.026,,mistral-large-latest,Parse Error
+ŽSR Zvýšenie priepustnosti trate Bratislava - Dunajská Streda - Komárno,1.056,,mistral-large-latest,Parse Error
+Nákup lôžkových vozňov (aktualizácia),1.109,,mistral-large-latest,Parse Error
+"ŽSR, Elektrifikácia trate Haniska – Veľká Ida – Moldava nad Bodvou mesto",1.014,,mistral-large-latest,Parse Error
+Nákup 26 ks dieselových motorových jednotiek pre osobnú dopravu,1.075,,mistral-large-latest,Parse Error
+"IT projekty Ministerstva vnútra SR (Centrálne komponenty verejnej správy, Riadenie procesov a dát pre OÚ, PZ a HaZZ, Digitálne pracovné prostredie zamestnanca MV SR)",2.012,,mistral-large-latest,Parse Error
+Digitálna infraštruktúra škôl (aktualizácia),2.092,,mistral-large-latest,Parse Error
+Konsolidovaná analytická vrstva,2.031,,claude-opus-4-1-20250805,Error
+Konsolidovaná analytická vrstva,2.031,,claude-sonnet-4-5,Error
+Informačný systém FARMÁR,2.085,,claude-opus-4-1-20250805,Error
+Informačný systém FARMÁR,2.085,,claude-sonnet-4-5,Error
+Obstaranie Pásových bojových obrnených vozidiel a Pásových obrnených vozidiel,4.008,,mistral-large-latest,Parse Error
+Obstaranie Pásových bojových obrnených vozidiel a Pásových obrnených vozidiel,4.008,,claude-opus-4-1-20250805,Error
+Obstaranie Pásových bojových obrnených vozidiel a Pásových obrnených vozidiel,4.008,,claude-sonnet-4-5,Error
+Modernizácia elektronickej komunikačnej siete ŽSR,1.012,,mistral-large-latest,Parse Error
+Modernizácia elektronickej komunikačnej siete ŽSR,1.012,,claude-opus-4-1-20250805,Error
+Modernizácia elektronickej komunikačnej siete ŽSR,1.012,,claude-sonnet-4-5,Error
+Poskytovanie mýtnych služieb – opakovanie verejného obstarávania,1.064,,claude-opus-4-1-20250805,Error
+Poskytovanie mýtnych služieb – opakovanie verejného obstarávania,1.064,,claude-sonnet-4-5,Error
+Informačný systém FARMÁR (aktualizácia),2.102,,mistral-large-latest,Parse Error
+Nákup 4 elektrických jednotiek pre linku Bratislava – Žilina,1.108,,mistral-large-latest,Parse Error
+Vnútro: Automatizácia systému odhaľovania porušení pravidiel cestnej premávky,5.008,,mistral-large-latest,Parse Error
+"D1 Beharovce – Branisko, 2. profil",1.112,,mistral-large-latest,Parse Error
+Zabezpečenie výpočtovej techniky na lokalitách v rámci celej SR (aktualizácia),2.093,,mistral-large-latest,Parse Error
+Komplexná rekonštrukcia historickej budovy Slovenského národného divadla,3.009,,mistral-large-latest,Parse Error
+Komplexné riešenie výrobných liniek dokladov občanov a cudzincov,2.072,,mistral-large-latest,Parse Error
+Modernizácia vozového parku ZSSK časti 6 a 7,1.036,,mistral-large-latest,Parse Error
